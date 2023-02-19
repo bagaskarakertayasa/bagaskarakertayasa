@@ -7,7 +7,7 @@ Web Developer
 I've been learning code for like 3 years and I graduated from Telkom University. I'm Fresh Graduate
 
 *   🌍  I'm based in Indonesia
-*   ✉️  You can contact me at [bagaskarakertayasa@gmail.com](mailto:kafazet@duck.com)
+*   ✉️  You can contact me at [kafazet@duck.com](mailto:kafazet@duck.com)
 *   🧠  I'm learning Framework Codeigniter
 *   🤝  I'm open to collaborating on interesting projects and good teams
 *   ⚡  I like playing video games
@@ -21,9 +21,8 @@ I've been learning code for like 3 years and I graduated from Telkom University.
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
 Socials                               
-<p align="left">                        
- <a href="https://www.github.com/bagaskarakertayasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                    
- <a href="http://www.instagram.com/bagaskarakertayasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  
+<p align="left">                                            
+ <a href="http://www.instagram.com/bagaskarakertayasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" /></a>  
 </p>
 
 ### Support Me
