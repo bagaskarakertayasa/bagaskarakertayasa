@@ -7,7 +7,7 @@ Web Developer
 I've been learning code for like 3 years and I graduated from Telkom University. I'm Fresh Graduate
 
 *   🌍  I'm based in Indonesia
-*   ✉️  You can contact me at [bagaskarakertayasa@gmail.com](mailto:bagaskarakertayasa@gmail.com)
+*   ✉️  You can contact me at [bagaskarakertayasa@gmail.com](mailto:kafazet@duck.com)
 *   🧠  I'm learning Framework Codeigniter
 *   🤝  I'm open to collaborating on interesting projects and good teams
 *   ⚡  I like playing video games
