@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I graduated from D3 Information System at Telkom University<br>👯 I’m looking to collaborate on Front End Developer<br>🌱 I’m currently learning HTML, CSS, Codeigniter<br>⚡ I Like playing video games and watching anime
+🔭 I graduated from D3 Information System at Telkom University<br>👯 I’m looking to collaborate on Web Developer<br>🌱 I’m currently learning HTML, CSS, Codeigniter<br>⚡ I Like playing video games and watching anime
 
 
 ## 🌐 Socials:
